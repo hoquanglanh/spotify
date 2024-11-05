@@ -21,7 +21,7 @@ app.use(express.json());
 app.use('/api/songs', songRoutes);
 
 // Connect to MongoDB
-mongoose.connect(process.env.MONGO_URL = "mongodb://localhost:27017/dbconnection", {
+mongoose.connect(process.env.MONGO_URL = "mongodb://localhost:27017/spotify", {
 }).then(() => {
   console.log('Connected to MongoDB');
   app.listen(process.env.PORT || 3000, () => {
