@@ -21,11 +21,11 @@ app.use(express.json());
 app.use('/api/songs', songRoutes);
 
 // Connect to MongoDB
-mongoose.connect(process.env.MONGO_URL = "mongodb://localhost:27017/spotify", {
+mongoose.connect(process.env.MONGO_URL = "mongodb+srv://lanh1245:Lanh12345@spotify.h0a9e.mongodb.net/spotify", {
 }).then(() => {
   console.log('Connected to MongoDB');
-  app.listen(process.env.PORT || 3000, () => {
-    console.log(`Server running on port ${process.env.PORT || 3000}`);
+  app.listen(process.env.PORT || 8080, () => {
+    console.log(`Server running on port ${process.env.PORT || 8080}`);
   });
 }).catch(error => {
   console.error('Error connecting to MongoDB:', error);
