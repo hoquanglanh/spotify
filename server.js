@@ -4,7 +4,7 @@ const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors =  require('cors');
 
-const productRoutes = require('./routes/songRoutes');
+const songRoutes = require('./routes/songRoutes');
 
 dotenv.config();
 const app = express();
@@ -21,7 +21,7 @@ app.use(express.json());
 app.use('/api/songs', songRoutes);
 
 // Connect to MongoDB
-mongoose.connect(process.env.MONGODB_URI, {
+mongoose.connect(process.env.MONGO_URL = "mongodb://localhost:27017/dbconnection", {
 }).then(() => {
   console.log('Connected to MongoDB');
   app.listen(process.env.PORT || 3000, () => {
