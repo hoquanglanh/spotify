@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Về Nghe Mẹ Ru",
+    "singer": "NSND Thanh Hoa",
+    "duration": "4:52",
+    "lyrics": "Về nghe mẹ ru những câu xa vắng\nÀ ơi! Tiếng ru mẹ ngọt ngào năm xưa\nĐường xa ánh trăng còn thức với mẹ\nKhuya nay tiếng võng đưa nắng về trong mơ...",
+    "audioFile": "https://example.com/audio/ve-nghe-me-ru.mp3"
+  },
+  {
+    "name": "Nắng Có Còn Xuân",
+    "singer": "Mỹ Tâm",
+    "duration": "4:35",
+    "lyrics": "Nắng có còn xuân thì còn yêu mãi\nMùa xuân có nắng ấm tình yêu sẽ mãi xanh\nLòng đã yêu ai thì yêu trọn vẹn\nDẫu cho bao gian nan vẫn mãi tin yêu...",
+    "audioFile": "https://example.com/audio/nang-co-con-xuan.mp3"
+  },
+  {
+    "name": "Hà Nội Mùa Vắng Những Cơn Mưa",
+    "singer": "Bằng Kiều",
+    "duration": "5:15",
+    "lyrics": "Hà Nội mùa này vắng những cơn mưa\nCòn em thì vẫn đợi anh về trong những chiều\nPhố xưa nơi ta hay đi chung đôi\nGiờ anh nơi xa xôi...",
+    "audioFile": "https://example.com/audio/ha-noi-mua-vang-nhung-con-mua.mp3"
+  },
+  {
+    "name": "Đêm Nay Anh Mơ Về",
+    "singer": "Đan Trường",
+    "duration": "4:28",
+    "lyrics": "Đêm nay anh mơ về em\nGiấc mơ tuyệt vời có em bên cạnh\nĐêm nay anh nhớ về em\nNhớ đôi mắt xinh, nhớ nụ cười dễ thương...",
+    "audioFile": "https://example.com/audio/dem-nay-anh-mo-ve.mp3"
+  },
+  {
+    "name": "Cánh Hồng Phai",
+    "singer": "Bích Phương",
+    "duration": "4:45",
+    "lyrics": "Mùa thu đến rồi đó em\nLá vàng rơi bên thềm\nNhư những kỷ niệm xưa\nCòn vương vấn đâu đây...",
+    "audioFile": "https://example.com/audio/canh-hong-phai.mp3"
+  },
+  {
+    "name": "Có Chàng Trai Viết Lên Cây",
+    "singer": "Phan Mạnh Quỳnh",
+    "duration": "5:02",
+    "lyrics": "Có chàng trai viết lên cây\nViết những gì ngày xưa yêu dấu\nCó chàng trai viết tên người\nKhắc những kỷ niệm một thời đã xa...",
+    "audioFile": "https://example.com/audio/co-chang-trai-viet-len-cay.mp3"
+  },
+  {
+    "name": "Người Hãy Quên Em Đi",
+    "singer": "Mỹ Tâm",
+    "duration": "4:18",
+    "lyrics": "Người hãy quên em đi\nQuên đi những tháng ngày đã qua\nQuên đi những lúc yêu thương đã trao nhau\nQuên đi để thấy lòng thanh thản...",
+    "audioFile": "https://example.com/audio/nguoi-hay-quen-em-di.mp3"
+  },
+  {
+    "name": "Mưa Rừng",
+    "singer": "Đan Trường",
+    "duration": "4:56",
+    "lyrics": "Mưa rừng ơi xin đừng rơi nữa\nĐể anh được thấy em qua bên này\nMưa rừng ơi xin ngừng một phút\nĐể anh nói với em đôi lời...",
+    "audioFile": "https://example.com/audio/mua-rung.mp3"
+  },
+  {
+    "name": "Tình Ca",
+    "singer": "Trọng Tấn",
+    "duration": "5:30",
+    "lyrics": "Tình yêu như bóng mây\nTrôi về chốn xa xăm\nNgười đi không trở lại\nĐể lòng anh xót xa...",
+    "audioFile": "https://example.com/audio/tinh-ca.mp3"
+  },
+  {
+    "name": "Quê Hương",
+    "singer": "Anh Thơ",
+    "duration": "4:42",
+    "lyrics": "Quê hương là chùm khế ngọt\nCho con trèo hái mỗi ngày\nQuê hương là đường đi học\nCon về rợp bướm vàng bay...",
+    "audioFile": "https://example.com/audio/que-huong.mp3"
+  }
+]
