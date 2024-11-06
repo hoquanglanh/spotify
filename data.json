@@ -1,72 +1,112 @@
 [
   {
-    "name": "Về Nghe Mẹ Ru",
-    "singer": "NSND Thanh Hoa",
-    "duration": "4:52",
-    "lyrics": "Về nghe mẹ ru những câu xa vắng\nÀ ơi! Tiếng ru mẹ ngọt ngào năm xưa\nĐường xa ánh trăng còn thức với mẹ\nKhuya nay tiếng võng đưa nắng về trong mơ...",
-    "audioFile": "https://example.com/audio/ve-nghe-me-ru.mp3"
+    "id": 1,
+    "name": "Standing Next to You",
+    "singer": "Jung Kook",
+    "album": "Standing Next to You",
+    "albumArtist": "Jung Kook",
+    "duration": "3:46",
+    "lyrics": "Play me slow\nI push up on this funk and give me miracles (let ya body know)\nMake it known\nHow we left and right is something we control (you already know)\nYou know that all night long we rock to this\nScreaming, I testify this lovin'\nAll night long we flock to this\nScreaming, I testify that we'll survive the test of time\nThey can't deny our love\nThey can't divide us, we'll survive the test of time\nI promise I'll be right here\nStanding next to you\nStanding in the fire next to you, oh\nYou know it's deeper than the rain\nIt's deeper than the pain\nWhen it's deep like DNA\nSomething they can't take away, ay\nTake-take-take-take-take-take off\nStanding next to you\nStanding next to you (you)\nStanding next to you\nAfterglow\nLeave ya body golden like the sun and the moon (you already know)\nYou know that all night long we rock to this (oh)\nScreaming, I testify this lovin'\nAll night long we flock to this (all night long)\nScreaming, I testify that we'll survive the test of time\nThey can't deny our love\nThey can't divide us, we'll survive the test of time\nI swear that I'll be right here\nStanding next to you (next to you)\nStanding in the fire next to you (next to you), oh\nYou know it's deeper than the rain\nIt's deeper than the pain\nWhen it's deep like DNA\nSomething they can't take away, ay\nTake-take-take-take-take-take off\nStanding next to you (standing next to you)\nStanding next to you (standing next to you, standing next to you)\nStanding next to you (standing next to you, standing next to you)\nHey\nStanding next to you\n(Standing next to you)\nOoh\nWoo\nStanding next to you",
+    "audioFile": "https://example.com/audio/bad-guy.mp3",
+    "avatar": "https://example.com/avatars/bad-guy.jpg"
   },
   {
-    "name": "Nắng Có Còn Xuân",
-    "singer": "Mỹ Tâm",
-    "duration": "4:35",
-    "lyrics": "Nắng có còn xuân thì còn yêu mãi\nMùa xuân có nắng ấm tình yêu sẽ mãi xanh\nLòng đã yêu ai thì yêu trọn vẹn\nDẫu cho bao gian nan vẫn mãi tin yêu...",
-    "audioFile": "https://example.com/audio/nang-co-con-xuan.mp3"
+    "id": 2,
+    "name": "Đánh Đổi",
+    "singer": "Obito,Shiki",
+    "album": "Đánh Đổi",
+    "albumArtist": "Obito,Shiki",
+    "duration": "3:47",
+    "lyrics": "Tao đánh đổi màn đêm yên giấc viết những bài nhạc hay nhất cuộc đời\nDi sản là nguồn cảm hứng, fan theo răm rắp nhạc tao thuộc lời\nTrên bàn tiệc của tiên và quỷ tao là thằng duy nhất được mời\nMọi thứ đổ dồn hết vào tao như kiểu tao là một ván cược hời\nTao là đứa con của mặt trăng, mang năng lượng mặt trời\nCuộc đời xoay tao như trực thăng, vẫn vượt lên như thể gặp thời\nTao không vứt đi bản chất tao như mấy thằng khác để ví được lời\nNếu mày cũng mặt nặng mài nhẹ vì không đồng ý thì thôi được rồi, ah\nShout out cho anh Sea lời chúc phúc bay trên bầu trời\nEm mong anh hãy nói với mẹ “cuộc sống con giờ đã đỡ cực rồi”\nHai anh em đã đổ nước mắt, nhiều câu chuyện về những người tồi\nSự đánh đổi này vẫn luôn đẹp như thể ngày xưa chơi cất nhà chồi\nFuck it whoa, đêm đông lạnh giữa trời Hà Nội\nFlow tao chảy cùng những niềm đau như thể đang châm thêm mực vào ngòi\nChuỗi hành trình cùng nhiều câu hỏi, ai là cá còn ai là mồi\nMọi thứ đều luôn có mặt tối nhưng liệu mày có sẵn sàng đánh đổi?\n\nNgắm nhìn cả thế giới từ xa damn it's cold\nNếu mày hỏi tao ác hay thiện man I don't know\nChắc đây vốn đã là cái giá cho bao lần đau\nSự đánh đổi này cho tao thấy mọi thứ đã không như ngày đầu\nNgắm nhìn cả thế giới từ xa damn it's cold\nNếu mày hỏi tao ác hay thiện man I don't know\nChắc đây vốn đã là cái giá cho bao lần đau\nSự đánh đổi này cho tao thấy mọi thứ đã không như ngày đầu\n\nIt's a fair trade\nTelling all the truth\nIt's a fair trade\nAin't none pussy in the way\nIt's a fair trade\nFuck u if u fake it\nIt's a fucking fair trade\n\nI wanna know\nThat I wanna know\nHow I feel\nWanna know how I feel\nHow I feel in my heart\nMy heart\nMy heart\n\n2020 và tao nổi như hiện tượng nhưng không chìm vào trong đấy để rồi chết như thằng ngu\n3 năm đánh đổi để tu thân trong hoạ đời rồi biết đâu là thật giả, tâm tao nhàn như tiều phu\nĐảo mắt quan sát như diều hâu đang đi lượn, im lặng và cười nhếch với drama và ruồi bu\n2023 lời tao bắn như cái máy mà còn đéo trượt phát nào, sự đánh đổi đó thằng cu\nTrò đời quăng tao vào địa ngục, cho tao biết mặt trái của whole game\nCho tao bài hít, cho fame, xong nó lấy đi tất cả sau bao đêm\nTao vẫn vươn từ dưới đáy đi lên, bật và đòi lại bằng được no shame\nChiêm nghiệm và mài dũa thâu đêm, giờ tinh khiết và óng ánh như blue gem\nKhông tìm thấy tao, tao bận đi tu luyện, câu truyện của tao có đủ để hay hơn tụi mày\nTu xong dù thành tiên, hay là thành quỷ, vẫn ẩn khỏi radar, thân vẫn đóng lớp bụi dày\nRất nhiều thằng trẻ là trường hợp giống như tao nhưng bị nghề này nó dập xong tâm lý ở dưới đáy\nTao thoát được tệ nạn, thoát được cảnh vung dao, tao đánh đổi tất cả để chân chạy đến được đây hoes\n\nTrên cao\nTao biết là tao vẫn đang chính là tao, khi mà chơi chán ya peace I’m out\nĐôi khi rất là cô đơn, tao lấy hết sự cô đơn tao lấp vào trong bank account\nNhư là Pacquiao, Manny Pacquiao shadow box trên nền Vinahouse (Vina)\nVẫn chưa thấy thằng nào nhanh hơn tao, thác đổ thác đổ flow tao dồn xuống như là K50\nỞ dưới toàn núi đồi núi đồi, bỏ mẹ rồi úi dồi úi dồi (YoungTobieedasick, ya)\nCẩn thận không bị cuấn vào cuấn vào\nAnh là mỏ ối người muốn đào\nAnh về rồi cúi người xuống nào",
+    "audioFile": "https://example.com/audio/scorpion.mp3",
+    "avatar": "https://example.com/avatars/scorpion.jpg"
   },
   {
-    "name": "Hà Nội Mùa Vắng Những Cơn Mưa",
-    "singer": "Bằng Kiều",
-    "duration": "5:15",
-    "lyrics": "Hà Nội mùa này vắng những cơn mưa\nCòn em thì vẫn đợi anh về trong những chiều\nPhố xưa nơi ta hay đi chung đôi\nGiờ anh nơi xa xôi...",
-    "audioFile": "https://example.com/audio/ha-noi-mua-vang-nhung-con-mua.mp3"
+    "id": 3,
+    "name": "Who",
+    "singer": "Jimin",
+    "album": "Who",
+    "albumArtist": "Jimin",
+    "duration": "3:28",
+    "lyrics": "We never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\nIf every day I think about her\nYeah, every day of my life\nThen tell me why I haven't found her\nWhy? Why? Why? Why? Why?\nSo many people to see (so many people to see, to see, to see)\nPlaces to go (so many places to go), we still haven't found hello\nWe never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\nI'll take her places they ain't found yet\nI'll put it all on the line\nI'll be that someone she can count on\nOne, two, three, four, five\nSo many people to see (so many people to see, to see, to see)\nPlaces to go (so many places to go), we still haven't found hello\nWe never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\nIs she someone that I see every day?\nIs she somewhere a thousand miles away?\nWanna give her the world and so much more\nWho is my heart waiting for?\nHeart waiting for?\n(Who is my heart?) Heart waiting for?\n(Who is my heart?) Heart waiting for?\n(Who is my?) Who is my heart waiting for?\nWe never met, but she's all I see at night\nNever met, but she's always on my mind\nWanna give her the world and so much more\nWho is my heart waiting for?\nIs she someone that I see every day? (Oh)\nIs she somewhere a thousand miles away? (A thousand miles away)\nWanna give her the world and so much more (and so much more)\nWho is my heart waiting for?",
+    "audioFile": "https://example.com/audio/as-it-was.mp3",
+    "avatar": "https://example.com/avatars/as-it-was.jpg"
   },
   {
-    "name": "Đêm Nay Anh Mơ Về",
-    "singer": "Đan Trường",
-    "duration": "4:28",
-    "lyrics": "Đêm nay anh mơ về em\nGiấc mơ tuyệt vời có em bên cạnh\nĐêm nay anh nhớ về em\nNhớ đôi mắt xinh, nhớ nụ cười dễ thương...",
-    "audioFile": "https://example.com/audio/dem-nay-anh-mo-ve.mp3"
+    "id": 4,
+    "name": "Die With A Smile",
+    "singer": "Lady Gaga,Bruno Mars",
+    "album": "Die With A Smile",
+    "albumArtist": "Lady Gaga,Bruno Mars",
+    "duration": "4:13",
+    "lyrics": "Oohh\nI\nI just woke up from a dream\nWhere you and I had to say goodbye\nAnd I don't know what it all means\nBut since I survived, I realized\n\nWherever you go, that's where I'll follow\nNobody's promised tomorrow\nSo I'ma love you every night like it's the last night\nLike it's the last night\n\nIf the world was ending, I'd wanna be next to you\nIf the party was over and our time on Earth was through\nI'd wanna hold you just for a while\nAnd die with a smile\nIf the world was ending, I'd wanna be next to you\n\nWoo-ooh\n\nOoh, lost\nLost in the words that we scream\nI don't even wanna do this anymore\n'Cause you already know what you mean to me\nAnd our love is the only war worth fighting for\n\nWherever you go, that's where I'll follow\nNobody's promised tomorrow\nSo I'ma love you every night like it's the last night\nLike it's the last night\n\nIf the world was ending, I'd wanna be next to you\nIf the party was over and our time on Earth was through\nI'd wanna hold you just for a while\nAnd die with a smile\nIf the world was ending, I'd wanna be next to you\n\nRight next to you\nNext to you\nRight next to you\nOh-oh-oh\n\nIf the world was ending, I'd wanna be next to you\nIf the party was over and our time on Earth was through\nI'd wanna hold you just for a while\nAnd die with a smile\nIf the world was ending, I'd wanna be next to you\nIf the world was ending, I'd wanna be next to you\n\nOoh, ooh\nI'd wanna be next to you",
+    "audioFile": "https://example.com/audio/god-did.mp3",
+    "avatar": "https://example.com/avatars/god-did.jpg"
   },
   {
-    "name": "Cánh Hồng Phai",
-    "singer": "Bích Phương",
-    "duration": "4:45",
-    "lyrics": "Mùa thu đến rồi đó em\nLá vàng rơi bên thềm\nNhư những kỷ niệm xưa\nCòn vương vấn đâu đây...",
-    "audioFile": "https://example.com/audio/canh-hong-phai.mp3"
+    "id": 5,
+    "name": "I will Be There",
+    "singer": "Jin",
+    "album": "I will Be There",
+    "albumArtist": "Jin",
+    "duration": "3:15",
+    "lyrics": "When the tears are rolling down\nLike a river to the ocean\nAnd there's no one else around\nYou won't question my devotion\nEverybody needs somebody\nAnd you got me\nYou know that I know that you know that\nI'll be there for the highs and lows\nGive you mine if your heart gets broke\nBy your side when you're all alone\nI will be there\nWhen you're down, down on your luck\nThings got tough and you had enough\nWhen you fall down I'mma pick you up\nI will be there, ay\nI'll be there, I'll be there\nI'll be there for you\nI'll be there, I'll be there\nI'll be there for you\nWhen you're down, down on your luck\nThings got tough and you had enough\nWoah\nI'll be there, I'll be there, I'll be there for you\nWhen you're heart could use a break\nAnd it's too broken to be open\nI'll be patient, I will wait\nUntil you're ready to be open\nEverybody\nNeeds somebody\nAnd you got me\nYou know that I know that you know that\nI'll be there for the highs and lows\nGive you mine if your heart gets broke\nBy your side when you're all alone\nI will be there\nWhen you're down, down on your luck\nThings got tough and you had enough\nWhen you fall down I'mma pick you up\nI will be there, ay\nI'll be there, I'll be there\nI'll be there for you\nI'll be there, I'll be there\nI'll be there for you\nWhen you're down, down on your luck\nThings got tough and you had enough\nWoah\nI'll be there, I'll be there, I'll be there for you\nI'll be there for the highs and lows\nGive you mine when your heart gets broke\nBy your side when you're all alone\nI will be there\nWhen you're down, down on your luck\nThings got tough and you had enough\nWhen you fall down I'mma pick you up\nI will be, I will be there\nEh, eh\nI'll be there\nI'll be there for you for all of the time\nYeah\nDown, down on your luck\nYou had enough\nI'll be there for you!",
+    "audioFile": "https://example.com/audio/dont-smile-at-me.mp3",
+    "avatar": "https://example.com/avatars/dont-smile-at-me.jpg"
   },
   {
-    "name": "Có Chàng Trai Viết Lên Cây",
-    "singer": "Phan Mạnh Quỳnh",
-    "duration": "5:02",
-    "lyrics": "Có chàng trai viết lên cây\nViết những gì ngày xưa yêu dấu\nCó chàng trai viết tên người\nKhắc những kỷ niệm một thời đã xa...",
-    "audioFile": "https://example.com/audio/co-chang-trai-viet-len-cay.mp3"
+    "id": 6,
+    "name": "Closer Than This",
+    "singer": "Jimin",
+    "album": "MUSE",
+    "albumArtist": "Jimin",
+    "duration": "4:24",
+    "lyrics": "너도 기억하니?\n우리 첫 만남이\n수줍고 어색했던 그때\n문득 돌아보니\n어느새 여기까지\n함께 걸어왔던 거야\n때론 넘어져 울기도 하고\n서로의 어깰 토닥여 주고\n눈물로 여울져 바라보며\n서로의 이름을 불러줬지\n6월 13일 그날부터\n오늘의 지금까지 너와 난\nEven if you're not here\n같은 자리에 always\nDon't have to worry now\n잠시 이 손을 놓지만, 작은 쉼표일 뿐인걸\nJust call my name out loud\n다시 보랏빛 물들 그날\n'Cause anytime you want me (I'll be)\nRight here where you call me (I'll be)\nI could never let you go\nNever let you go\nWhenever you need me (I'll be)\nIf you believe me (I'll be)\nI'll never let you go\nNever let you go\nAh 비가 내리면 비 맞으며 노래하던 그때를 기억할게\n눈이 내리면 눈 맞으며 웃어주던 널 추억하며\n다시 만날 봄날에 못다 한 얘길 전할게\nMy love, my babe 영원히 니 곁에\n일곱은 하나 right? 두근거려 지금도 하나의 마음\n잠깐 눈을 감아, 눈앞에 서 있을게 oh-whoa\nDon't have to worry now\n잠시 이 손을 놓지만, 작은 쉼표일 뿐인걸\nJust call my name out loud\n다시 보랏빛 물들 그날\n'Cause anytime you want me (I'll be)\nRight here where you call me (I'll be)\nI could never let you go\nNever let you go\nWhenever you need me (I'll be)\nIf you believe me (I'll be)\nI'll never let you go\nNever let you go\n하나 된 맘으로 두드리면\n그 웃음으로 문을 열어줘\n멈췄던 시간이 돌아오면\nBaby, I'll come back to you\n다 함께 부르자 이 노래\n다시 하나 될 그날에\nI could never let you go (never let you go)\nNever let you go (Never let you go)\n더 크게 부르자 이 노래\n다시 하나 될 수 있게 (I can't Never let you go)\nI'll never let you go\nNever let you go\n다 함께 부르자 이 노래 (eh-eh)\n다시 하나 될 그날에 (eh)\nI could never let you go (I could never let you go)\nNever let you go (mm-mm, let you go)\n더 크게 부르자 이 노래 (eh-eh)\n다시 하나 될 수 있게 (eh)\nI'll never let you go (I'll never let you go)\nNever let you go (mm, never let you go, mm)",
+    "audioFile": "https://example.com/audio/super-freaky-girl.mp3",
+    "avatar": "https://example.com/avatars/super-freaky-girl.jpg"
   },
   {
-    "name": "Người Hãy Quên Em Đi",
-    "singer": "Mỹ Tâm",
-    "duration": "4:18",
-    "lyrics": "Người hãy quên em đi\nQuên đi những tháng ngày đã qua\nQuên đi những lúc yêu thương đã trao nhau\nQuên đi để thấy lòng thanh thản...",
-    "audioFile": "https://example.com/audio/nguoi-hay-quen-em-di.mp3"
+    "id": 7,
+    "name": "3D",
+    "singer": "Jung Kook",
+    "album": "GOLDEN",
+    "albumArtist": "Jung Kook",
+    "duration": "3:21",
+    "lyrics": "One, two, 3D\nI can't touch you through the phone\nOr kiss you through the universe\nIn another time zone\nIt's the only time I can't reverse\nBut when there's two dimensions\nThere's only one I'm missing\nAnd if you feel alone\nYou don't have to feel that no more\nI just wanna see you like that\nSee you like that, uh-uh\nSo if you're ready (so if you're ready)\nAnd if you'll let me (and if you'll let me)\nI wanna see it\nIn motion\nIn 3D (uh-uh)\nYou won't regret me (you won't regret me)\nChampagne confetti (champagne confetti)\nI wanna see it\nIn motion\nIn 3D\n'Cause you know how I like it, girl (girl)\n3D (woo)\nYou know how I like it, girl (girl)\n3D (woo)\nBody to body to body to body to body\nYou and me, baby, you know that we got it\nSo don't go getting me started\n'Cause you know I get hot hearted\nBaby, oh, baby, oh, baby, you're making me crazy\nRain, rain, rain, you can't fake it\nYou give me brand new emotion\nYou got me drinking that potion\nI just wanna see you like that\nSee you like that, uh-uh\nSo if you're ready (so if you're ready)\nAnd if you'll let me (and if you'll let me)\nI wanna see it (hey)\nIn motion\nIn 3D (show me, girl, now)\nYou won't regret me (you won't regret me)\nChampagne confetti (hey)\nI wanna see it\nIn motion\nIn 3D (come on, come on, come on)\n'Cause you know how I like it, girl\n(You know how I like it) 3D (woo)\nYou know how I like it, girl\n(You know how I like it) 3D (woo)\n'Cause you know how I like it, girl (ooh)\n(You know how I like it) 3D (woo)\nYou know how I like it, girl (girl)\n3D (woo)\nI'm on my Jung Kook, take a chick off one look\nAnd when they get took, they don't ever get untook\nWhen I seen that body, you would think it was a dead body\nThe way I told my boys, \"Come look\"\nI used to take girls up to Stony Brook\nAnd steal they hearts like some crook, true story\nNow when I hold somebody's hand it's a new story\nAll my ABGs get cute for me\nI had one girl (one girl), too boring\nTwo girls, that was cool for me\nThree girls, damn, dude's horny\nFour girls, okay, now you whorin'\n(Hey, hey) I'm loose (hey)\nI done put these shrooms to good use\nI done put my city on my back\nAnd the world know my name, I'm the truth\nSo if you're ready\nAnd if you'll let me\nI wanna see it\nIn motion\nIn 3D (ooh)\nYou won't regret me (you won't regret me)\nChampagne confetti (champagne confetti)\nI wanna see it\nIn motion\nIn 3D (show it to me, girl, now) (why?)\n'Cause you know how I like it, girl (how do you like it? Right)\n3D (woo)\nYou know how I like it, girl (oh, yeah)\n(Alright) 3D (woo, woo)\n'Cause you know how I like it, girl (ooh)\n(You know how I like it, alright) (Spy Kids) 3D (woo)\nYou know how I like it, girl (girl)\n3D (woo)\nI got you playin' with yourself on camera\nYou my bae, just like Tampa\nSpeaking of bucks, I got those\nAnd as for fucks, well, not those, and as for thots\nWell, do you really wanna know? I thought so\nI'll fly you from Korea to Kentucky\nAnd you ain't gotta guarantee me nothing, I just wanna see if I get lucky\nI just wanna meet you in the physical and see if you would touch me",
+    "audioFile": "https://example.com/audio/bad-habit.mp3",
+    "avatar": "https://example.com/avatars/bad-habit.jpg"
   },
   {
-    "name": "Mưa Rừng",
-    "singer": "Đan Trường",
-    "duration": "4:56",
-    "lyrics": "Mưa rừng ơi xin đừng rơi nữa\nĐể anh được thấy em qua bên này\nMưa rừng ơi xin ngừng một phút\nĐể anh nói với em đôi lời...",
-    "audioFile": "https://example.com/audio/mua-rung.mp3"
+    "id": 8,
+    "name": "Bình Yên",
+    "singer": "Vũ",
+    "album": "Bảo Tàng Của Nuối Tiếc",
+    "albumArtist": "Vũ",
+    "duration": "3:23",
+    "lyrics": "Bình yên một thoáng cho tim mềm\nBình yên ta vào đêm\nBình yên để đóa hoa ra chào\nBình yên để trăng cao\nBình yên để sóng nâng niu bờ\nBình yên không ngờ\nLòng ta se sẽ câu kinh bình yên\nBình yên để gió đưa em về\nBình yên ta chờ nghe\nChờ nghe tình vỗ lên tim mình\nChờ nghe tình lung linh\nBình yên để nắng soi môi thơm\nBình yên ta mừng\nMừng em đã hết đau thương về đây ấm cúng\nMừng em đã biết xót thương tình yêu\nNhư từ bao la ta ra đời một kiếp nữa\nNhư từ trong nhau lớn lên khôn lên cùng nhau\nNhư một câu hát ứa ra từ tim\nTặng nhau nhé, tiếng nghe hồn nhiên\nĐể quên hết khó khăn chia lìa\nBình yên ta vào đêm\nBình yên để trăng cao\nBình yên ta mừng\nMừng em đã hết đau thương về đây ấm cúng\nMừng em đã biết xót thương tình yêu\nBình yên là gió bay muôn trùng\nQuả tim nay nghỉ ngơi\nBình yên từ trút hơi sau cùng\nRồi bay về xa xôi\nBỏ đi cuộc thế đang xoay vần\nBỏ đi không nhìn\nTrẻ thơ khép mắt lắng nghe lời kinh sáng suốt\nBình yên nơi khác mới ra bình yên\nNhư từ bao la ta ra đời một kiếp nữa\nNhư từ trong nhau lớn lên khôn lên cùng nhau\nNhư một câu hát ứa ra từ tim\nTặng nhau nhé, tiếng nghe hồn nhiên\nĐể quên hết khó khăn chia lìa\nBình yên ta chờ nghe\nChờ nghe tình lung linh\nBình yên ta mừng\nMừng em đã hết đau thương về đây ấm cúng\nMừng em đã biết xót thương tình yêu\nMừng em ta hát đầy hơn xưa",
+    "audioFile": "https://example.com/audio/planet-her.mp3",
+    "avatar": "https://example.com/avatars/planet-her.jpg"
   },
   {
-    "name": "Tình Ca",
-    "singer": "Trọng Tấn",
-    "duration": "5:30",
-    "lyrics": "Tình yêu như bóng mây\nTrôi về chốn xa xăm\nNgười đi không trở lại\nĐể lòng anh xót xa...",
-    "audioFile": "https://example.com/audio/tinh-ca.mp3"
+    "id": 9,
+    "name": "Ai Cũng Phải Bắt Đầu Từ Đâu Đó",
+    "singer": "HIEUTHUHAI",
+    "album": "Ai Cũng Phải Bắt Đầu Từ Đâu Đó",
+    "albumArtist": "HIEUTHUHAI",
+    "duration": "2:18",
+    "lyrics": "Tụi nó nói là tao muốn tiền và name\nĐúng rồi tao đó, chắc mày thì không?\nTao còn cần nhiều hơn cả quyền và fame, mài nhọn cây viết và tạo kì công\nĐành phải buông bàn tay em đi để mà cầm lái AMG\nĐâu còn cái giá 12 tiếng trước, nếu muốn thì pay thêm fee\nTao đi từ \"Thằng này, mày là ai?\" cho tới \"Đâu cần phải giới thiệu chú\"\nTừng là dấu chấm hỏi của cả Việt Rap, giờ là câu trả lời cho ai là triệu phú\nDẫm ga, tao chỉ phóng và phóng, chân tao chưa từng nhùn\nKhông ai có thể cản, phanh tao chưa từng dùng\nĐừng có nhận người quen nếu mình chưa mừng cùng\nCuộc hẹn với chiến thắng tao vẫn chưa từng bùng\nQua năm 23 tao vẫn cao dần (cao dần), xem ở trong tương lai tao còn bao lần (bao lần)\nTụi nó nói tao nằm mơ khi tao nói, mỗi ngày viết thêm một verse là tao có thứ mà tao cần\nThời gian mà tao bỏ ra để mà giết vài con beat thì nó đang nằm ngay ngắn ở trên Cartier\nVà những gì tao nói cũng đã thành sự thật, không cần ai tin giống như Galileo, yeah, hold up\nTụi mày có mấy thằng anh chống lưng mà vẫn muốn so sánh mong là ta bằng nhau\nTao chỉ có cả tương lai phía trước cộng thêm rất nhiều tỉ đang nằm ở đằng sau (huh)\nMục tiêu của tao ở trong top (trong top), mục tiêu của mày chính là tao\nNó chỉ mong là tao sẽ ăn phốt, nghe album tao drop thì bao thằng thi lo (thi lo)\nKewtiie trên beat và we on (we on), Prada và Christian Dior (Dior)\nSố một đứng cạnh cùng số hai thì nó vẫn là tao khi after before (before)\nSẽ không bao giờ tao dừng lại, tao không hề ngủ quên những lúc mà khi no\nNên chỉ có đeo thêm vài cọng dây chuyền sẽ là cách duy nhất tăng thêm vài ki-lô (ki-lô)\nVà tao chỉ thua khi tự cắn vào đuôi như là rắn săn mồi\nTụi nó đâu biết tao lớn lên ở Hóc Môn, đêm nằm dưới căn chòi\nChỉ biết rockstar lifestyle nhưng mà đâu ai thấy tất cả thứ sau nó (no one)\nCô đơn, phòng tối và chiếc bóng, ai cũng phải bắt đầu từ đâu đó\nThrowing dirt on my fucking name, wanna try me out? (Try me out)\nĐã bao năm, thời gian cũng trôi qua, mày vẫn ở đó sao?\nĐứng trên show mà sao ở bên tai toàn là tên của tao?\nTên của tao, ao-ao-ao",
+    "audioFile": "https://example.com/audio/sweetest-pie.mp3",
+    "avatar": "https://example.com/avatars/sweetest-pie.jpg"
   },
   {
-    "name": "Quê Hương",
-    "singer": "Anh Thơ",
-    "duration": "4:42",
-    "lyrics": "Quê hương là chùm khế ngọt\nCho con trèo hái mỗi ngày\nQuê hương là đường đi học\nCon về rợp bướm vàng bay...",
-    "audioFile": "https://example.com/audio/que-huong.mp3"
+    "id": 10,
+    "name": "NGÂN",
+    "singer": "tlinh,Low G",
+    "album": "FLVR",
+    "albumArtist": "tlinh,Low G",
+    "duration": "2:39",
+    "lyrics": "Yeah\n\nYeah\n\nYeah\n\nShawty chỉ mua được đồ high end\n\nEm bảo đồ sale chả ai thèm\n\nCắt tag thì nhanh hơn cả máy chém\n\nMặt shawty cóng hơn cả Iceland\n\nNgười shawty nóng hơn cả Thailand\n\nNgười shawty nóng hơn cả..\n\nYeah\n\nYeah\n\nNgười em ấy nóng khi em đóng chai Whisky với cây kem trên bể bơi uh\n\nGọi mấy anh zai sang chơi uh\n\nThêm mấy em gơn sang xơi uh\n\nAudemars mới mang từ Portugal tới em phải đợi 2 tuần em xông hơi uh\n\nMấy cái đứa designer suốt ngày bị shawty giục giục là \"em ơi\"\n\n\"Chị vừa mua nhà mới nên chị muốn nó có cái..\n\nLy đến từ Ý, và tivi bên Germany\n\nBàn bên Thuỵ Sĩ, và gương soi mua ở Paris\n\nVòi khoáng Hàn Quốc chứa nước muối đến từ Bali\n\nBếp của Xiaomi nhưng made in ở Hoa Kỳ\"\n\nVáy thiết kế đặt ở bên New York shawty mặc 1 lần chỉ để ngồi cafe\n\n24/7 style của em quá cháy đến mức người nổi tiếng còn hỏi đồ để thuê\n\nMix' n match đồ this and that em ấy biến Low G thành thằng nhà quê\n\nChẳng có gì để chê\n\nChẳng có gì để chê\n\nĐừng có shawty chị nếu mà em chưa cho chị xem số dư tài khoản\n\nChị ngửi thấy mùi ví dày hay xẹp lép vì chị có khả năng ngoại cảm\n\nBiến cả Low G thành thằng nhà quê\n\nChoáng vì quá nhiều tiền\n\nChẳng có cách nào khác, chị bảo \"công nhận\"\n\nChị nên đổi tên thành NGÂN\n\nNgân tiêu xài 1 tháng bằng Low G tiêu cả năm\n\nNgân chơi đồ hiệu mới vì đồ sale ai chả săn\n\nThuê máy bay trực thăng vì Ngân có khả năng\n\nThuê chục anh vệ sĩ cho Ngân đi mua và sắm\n\nNgân tăng GDP nước nhà lên 5%\n\nNgân coi ATM nào cũng như nhà Ngân\n\nBất động sản, Ngân sở hữu vài căn\n\nRất đơn giản, cũng không quá là căng ý\n\nThật ý\n\nĐối với chị thì cái gì nó cũng bình thường\n\nMọi thương hiệu tất cả các rapper nhắc đến\n\nNgân mua được hết, mỗi thứ 2 cái luôn cái cho chắc\n\nUh\n\nChẳng đắt gì\n\nChristian Dior Dior\n\nNgân mua sỉ Ngân quý ai Ngân đem tặng\n\n\"Chất\" - không còn từ nào khác để tả Ngân\n\nNgân ơi (Ngân Ngân)\n\nCho Low G vay tiền đi Ngân ơi (money money)\n\nChẳng có gì để chê luôn Ngân ơi\n\nNgân ơi Ngân ơi\n\nChẳng chẳng chẳng chẳng chẳng chẳng\n\nChẳng có gì để chê\n\nChẳng có gì để chê\n\nChị có cái..\n\nLy đến từ Ý, và tivi bên Germany\n\nBàn bên Thuỵ Sĩ, và gương soi mua bên Paris\n\nRồi vòi khoáng Hàn Quốc chứa nước muối đến từ Bali\n\nVà bếp của Xiaomi made in ở Hoa Kỳ\n\nVáy thiết kế ở New York\n\nMặc một lần ngồi cafe\n\nStyle của chị quá cháy\n\nHọ hỏi đồ để thuê\n\nMix and match and this and that\n\nLow G thành thằng nhà quê\n\nChẳng có gì để chê",
+    "audioFile": "https://example.com/audio/happier-than-ever.mp3",
+    "avatar": "https://example.com/avatars/happier-than-ever.jpg"
   }
 ]

@@ -1,4 +1,3 @@
-// models/Song.js
 const mongoose = require('mongoose');
 
 const songSchema = new mongoose.Schema({
@@ -12,12 +11,21 @@ const songSchema = new mongoose.Schema({
     required: [true, 'Tên ca sĩ không được để trống'],
     trim: true
   },
+  album: {
+    type: String,
+    required: [true, 'Tên album không được để trống'],
+    trim: true
+  },
+  albumArtist: {
+    type: String,
+    required: [true, 'Tên ca sĩ album không được để trống'],
+    trim: true
+  },
   duration: {
     type: String,
     required: [true, 'Thời lượng bài hát không được để trống'],
     validate: {
       validator: function(v) {
-        // Kiểm tra định dạng mm:ss
         return /^([0-9]{1,2}):([0-5][0-9])$/.test(v);
       },
       message: props => `${props.value} không phải là định dạng thời gian hợp lệ! Sử dụng định dạng mm:ss`
@@ -29,6 +37,10 @@ const songSchema = new mongoose.Schema({
     trim: true
   },
   audioFile: {
+    type: String,
+    trim: true
+  },
+  avatar: {
     type: String,
     trim: true
   },
